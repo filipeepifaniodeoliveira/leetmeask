@@ -1,0 +1,43 @@
+.room-code {
+  // height: 40px;
+  // border-radius: 26px;
+  // overflow: hidden;
+  // background: #FFF;
+  // border: 1px solid #835afd;
+  // cursor: pointer;
+  // display: flex;
+
+  font-family: 'Poppins', sans-serif;
+  height: 40px;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #FFF;
+  border: 1px solid #835afd;
+  cursor: pointer;
+  display: flex;
+
+  div {
+    // background: #835afd;
+    // padding: 8px 12px;
+    // display: flex;
+    // justify-content: center;
+    // align-items: center;
+    // border-radius: 26px;
+    background: #835afd;
+    padding: 11px 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: -2px 0px -2px -6px;
+  }
+
+  span {
+    display: block;
+    align-self: center;
+    flex: 1;
+    padding: 0 16px 0 12px;
+    width: 220px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+}
